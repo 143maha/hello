@@ -61,11 +61,32 @@ http://localhost/hls-server/master.m3u8
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="", Raj Music Telugu
 http://localhost/hls-server/v720p/index.m3u8
 
+#EXTINF:-1 xui-id="94573" tvg-id="" tvg-name="IN | TBO CLASSIC" tvg-logo="" group-title="24-7 Channels",IN | TBO CLASSIC
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoLwWf5L0gf5m0jty3E60V5Y
+
+#EXTINF:-1 xui-id="94574" tvg-id="" tvg-name="IN | TBO" tvg-logo="" group-title="24-7 Channels",IN | TBO
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoMtkL1zBg9_q_w3oClKt9Lc
+
 #EXTINF:-1 tvg-id="manatv""tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="", Mana TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="",Vissa TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
+
+#EXTINF:-1 xui-id="94564" tvg-id="" tvg-name="IN | Now Premier Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Premier Cinema FHD
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEsB7Lfl1tTVi2BxEvfl7Vk
+
+#EXTINF:-1 xui-id="94565" tvg-id="" tvg-name="IN | Now Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Cinema FHD
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoCYBk0oUFRRhUq_QfwpCVZI
+
+#EXTINF:-1 xui-id="175473" tvg-id="" tvg-name="Box Office 4K" tvg-logo="" group-title="24-7 Channels",Box Office 4K
+http://b1g.one:80/play/5W0m8RSPwh1lNs0m-184uU9rAC_oObXydF-0KPZo6KA
+
+#EXTINF:-1 xui-id="94558" tvg-id="" tvg-name="IN | BBO" tvg-logo="" group-title="24-7 Channels",IN | BBO
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEcGVsMoCYFg_mgUDE3hVq8
+
+#EXTINF:-1 xui-id="94559" tvg-id="" tvg-name="IN | KBO" tvg-logo="" group-title="24-7 Channels",IN | KBO
+http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoIBZs1dGUe7NCJA53hhxhTM
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://i.imgur.com/DUlzJcc.png" group-title="",VANITHA TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1496
@@ -280,22 +301,9 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
-#EXTINF:-1 xui-id="94564" tvg-id="" tvg-name="IN | Now Premier Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Premier Cinema FHD
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEsB7Lfl1tTVi2BxEvfl7Vk
-#EXTINF:-1 xui-id="94565" tvg-id="" tvg-name="IN | Now Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Cinema FHD
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoCYBk0oUFRRhUq_QfwpCVZI
+
 #EXTINF:-1 xui-id="175472" tvg-id="" tvg-name="Netflix 4K" tvg-logo="" group-title="24-7 Channels",Netflix 4K
 http://b1g.one:80/play/5W0m8RSPwh1lNs0m-184uYt2h5UNGbXsCepj1Q2EekQ
-#EXTINF:-1 xui-id="175473" tvg-id="" tvg-name="Box Office 4K" tvg-logo="" group-title="24-7 Channels",Box Office 4K
-http://b1g.one:80/play/5W0m8RSPwh1lNs0m-184uU9rAC_oObXydF-0KPZo6KA
-#EXTINF:-1 xui-id="94558" tvg-id="" tvg-name="IN | BBO" tvg-logo="" group-title="24-7 Channels",IN | BBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEcGVsMoCYFg_mgUDE3hVq8
-#EXTINF:-1 xui-id="94559" tvg-id="" tvg-name="IN | KBO" tvg-logo="" group-title="24-7 Channels",IN | KBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoIBZs1dGUe7NCJA53hhxhTM
-#EXTINF:-1 xui-id="94573" tvg-id="" tvg-name="IN | TBO CLASSIC" tvg-logo="" group-title="24-7 Channels",IN | TBO CLASSIC
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoLwWf5L0gf5m0jty3E60V5Y
-#EXTINF:-1 xui-id="94574" tvg-id="" tvg-name="IN | TBO" tvg-logo="" group-title="24-7 Channels",IN | TBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoMtkL1zBg9_q_w3oClKt9Lc
 #EXTINF:-1 xui-id="175474" tvg-id="" tvg-name="Netflix Action HD1" tvg-logo="" group-title="24-7 Channels",Netflix Action HD1
 http://b1g.one:80/play/5W0m8RSPwh1lNs0m-184uTzJpHH_Q6uI8ICdwqohs1U
 #EXTINF:-1 xui-id="175475" tvg-id="" tvg-name="Netflix Action HD2" tvg-logo="" group-title="24-7 Channels",Netflix Action HD2
