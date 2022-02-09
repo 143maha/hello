@@ -61,17 +61,19 @@ http://localhost/hls-server/master.m3u8
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="", Raj Music Telugu
 http://opplex.tv:8080/6789/6789/167826
 
+#EXTINF:-1 tvg-id="manatv""tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="", Mana TV
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
+
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="",Vissa TV
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
+
 #EXTINF:-1 xui-id="94573" tvg-id="" tvg-name="IN | TBO CLASSIC" tvg-logo="" group-title="24-7 Channels",IN | TBO CLASSIC
 http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoLwWf5L0gf5m0jty3E60V5Y
 
 #EXTINF:-1 xui-id="94574" tvg-id="" tvg-name="IN | TBO" tvg-logo="" group-title="24-7 Channels",IN | TBO
 http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoMtkL1zBg9_q_w3oClKt9Lc
 
-#EXTINF:-1 tvg-id="manatv""tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="", Mana TV
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="",Vissa TV
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
 
 #EXTINF:-1 xui-id="94564" tvg-id="" tvg-name="IN | Now Premier Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Premier Cinema FHD
 http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEsB7Lfl1tTVi2BxEvfl7Vk
