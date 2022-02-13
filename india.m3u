@@ -2,11 +2,18 @@
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz" 
 
-#EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="",SVBC Telugu
+#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA HD
+https://rtmp.streamwell.in/hls/garudatv.m3u8
+
+#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA BHAKTI
+https://server.streamwell.in/hls/bhaktigaruda.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2" tvg-logo="https://i.imgur.com/uNffVOE.png" group-title="",SVBC Telugu
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
 
-#EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="",Bhakti TV
+#EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/p4Z8S8c.png" group-title="",Bhakti TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="",ETV 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/385
 
@@ -17,7 +24,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="",ETV PLUS
-http://opplex.tv:8080/6789/6789/167786
+http://starshare.live:8080/live/10191817/10191817/242.ts
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="",ETV ABHIRUCHI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
@@ -59,36 +66,13 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 http://localhost/hls-server/master.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="", Raj Music Telugu
-http://opplex.tv:8080/6789/6789/167826
+http://localhost/hls-server/v720p/index.m3u8
 
 #EXTINF:-1 tvg-id="manatv""tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="", Mana TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="",Vissa TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
-
-#EXTINF:-1 xui-id="94573" tvg-id="" tvg-name="IN | TBO CLASSIC" tvg-logo="" group-title="24-7 Channels",IN | TBO CLASSIC
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoLwWf5L0gf5m0jty3E60V5Y
-
-#EXTINF:-1 xui-id="94574" tvg-id="" tvg-name="IN | TBO" tvg-logo="" group-title="24-7 Channels",IN | TBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoMtkL1zBg9_q_w3oClKt9Lc
-
-
-
-#EXTINF:-1 xui-id="94564" tvg-id="" tvg-name="IN | Now Premier Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Premier Cinema FHD
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEsB7Lfl1tTVi2BxEvfl7Vk
-
-#EXTINF:-1 xui-id="94565" tvg-id="" tvg-name="IN | Now Cinema FHD" tvg-logo="" group-title="24-7 Channels",IN | Now Cinema FHD
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoCYBk0oUFRRhUq_QfwpCVZI
-
-#EXTINF:-1 xui-id="175473" tvg-id="" tvg-name="Box Office 4K" tvg-logo="" group-title="24-7 Channels",Box Office 4K
-http://b1g.one:80/play/5W0m8RSPwh1lNs0m-184uU9rAC_oObXydF-0KPZo6KA
-
-#EXTINF:-1 xui-id="94558" tvg-id="" tvg-name="IN | BBO" tvg-logo="" group-title="24-7 Channels",IN | BBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoEcGVsMoCYFg_mgUDE3hVq8
-
-#EXTINF:-1 xui-id="94559" tvg-id="" tvg-name="IN | KBO" tvg-logo="" group-title="24-7 Channels",IN | KBO
-http://b1g.one:80/play/58CuCwEZm1kLlDD0tzNRoIBZs1dGUe7NCJA53hhxhTM
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://i.imgur.com/DUlzJcc.png" group-title="",VANITHA TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1496
@@ -251,9 +235,6 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
 #EXTINF:-1 tvg-name="S tar sprts Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="",Star sprts Telugu
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" , DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="",BCN
@@ -309,43 +290,62 @@ http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" , Wow Chinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" , Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6MLjY6.png" , Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png" , Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png" , Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" , Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" , Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" , Manaranjon TV
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" , Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" , Masti TV
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" , Hungama Digital (Hungama)
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" , Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" , Zee Bollywood
 https://cutt.ly/ZeeBolly
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star GolD HD
 http://208.86.19.21/717.stream/index.m3u8
+
 http://103.153.39.36:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures SD
 https://nayeem-parvez.gq/zee5.php?c=tvpictureshd
+
 #EXTINF:-1 tvg-logo="nnn" , & Explore HD
 https://ranapk.tk/&_Explore.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 https://cutt.ly/ColorsCine
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6626/index.m3u8
 https://cutt.ly/SONYPAL
@@ -414,139 +414,3 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg" , Popular Science
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="3 Monkeys (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCy7e3t03fb0YxQKh4cmvqxfK7M.jpg" group-title="Telugu",3 Monkeys (2020)
-http://opplex.tv:8080/movie/6789/6789/211525.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg" group-title="Telugu",Ala Vaikunthapurramuloo (2020)
-http://opplex.tv:8080/movie/6789/6789/211526.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg" group-title="Telugu",Ala Vaikunthapurramuloo (2020)
-http://opplex.tv:8080/movie/6789/6789/211527.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bheeshma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E5BzNyjl9rIG8xaB5h9I7KsZdS.jpg" group-title="Telugu",Bheeshma (2020)
-http://opplex.tv:8080/movie/6789/6789/211528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Darbar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYRg4Kwwj3w3waMPjGM9M7cLpV.jpg" group-title="Telugu",Darbar (2020)
-http://opplex.tv:8080/movie/6789/6789/211529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Degree College (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7ld3W0rb5SaR3f91PcPDDrS5VD.jpg" group-title="Telugu",Degree College (2020)
-http://opplex.tv:8080/movie/6789/6789/211530.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HIT (2020)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDA7vgP3yKBMpJcpHTX0GPK1AlAOwgNM4qjNlKGHKfPujRseeP" group-title="Telugu",HIT (2020)
-http://opplex.tv:8080/movie/6789/6789/211531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Palasa 1978 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFumMwMDBVnWAYA7sUKyGOx7SNK.jpg" group-title="Telugu",Palasa 1978 (2020)
-http://opplex.tv:8080/movie/6789/6789/211532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sarileru Neekevvaru (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR002yBI04ZBLdEpoSquxYQryEC.jpg" group-title="Telugu",Sarileru Neekevvaru (2020)
-http://opplex.tv:8080/movie/6789/6789/211533.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bangaru Thalli (2020)" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bangaru-thalli-et00138118-10-09-2020-11-02-27.jpg" group-title="Telugu",Bangaru Thalli (2020)
-http://opplex.tv:8080/movie/6789/6789/211534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Junction lo Jayamalini (2020)" tvg-logo="https://i.ytimg.com/vi/JePLmhk9gwg/maxresdefault.jpg" group-title="Telugu",Junction lo Jayamalini (2020)
-http://opplex.tv:8080/movie/6789/6789/211535.mkv
-#EXTINF:-1 tvg-id="" tvg-name="36 Vayasulo (2020)" tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2020/07/36-Vayasulo.jpg" group-title="Telugu",36 Vayasulo (2020)
-http://opplex.tv:8080/movie/6789/6789/211536.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asalu Em Jarigindhante (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of9bdAMx1FIIBVIMGMik43ahzYY.jpg" group-title="Telugu",Asalu Em Jarigindhante (2020)
-http://opplex.tv:8080/movie/6789/6789/211537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Forensic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nnOFdY23oTr1f8NjsebvREjJdf.jpg" group-title="Telugu",Forensic (2020)
-http://opplex.tv:8080/movie/6789/6789/211538.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LADIES NOT ALLOWED (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j4QYMzYxXUv7TPSEID8yPPzXBL.jpg" group-title="Telugu",LADIES NOT ALLOWED (2020)
-http://opplex.tv:8080/movie/6789/6789/211539.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nijam (2003)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4R96jv5IFZ02P_TV_RrMJPCxCevNdslv7NcO-yKdb4QfupLgvY0K97Snl-al7lYUhns8&usqp=CAU" group-title="Telugu",Nijam (2003)
-http://opplex.tv:8080/movie/6789/6789/211540.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Power Star (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4I1fN1ZGMmzHjAxmNEnwv4BsSC.jpg" group-title="Telugu",Power Star (2020)
-http://opplex.tv:8080/movie/6789/6789/211541.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parannageevi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufrIeNrBDSGvIZSLHPQQcIC1jEe.jpg" group-title="Telugu",Parannageevi (2020)
-http://opplex.tv:8080/movie/6789/6789/211542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samaram (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaT4SvvMO25Xyd3NZjqxuTC7QBG.jpg" group-title="Telugu",Samaram (2019)
-http://opplex.tv:8080/movie/6789/6789/211543.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saradhi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2a2kfBlmQLVi8801KeCZG7Ltdtv.jpg" group-title="Telugu",Saradhi (2020)
-http://opplex.tv:8080/movie/6789/6789/211544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shivan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9Y9BRVZCJ3jpfOxOJMVXeMcjLM.jpg" group-title="Telugu",Shivan (2020)
-http://opplex.tv:8080/movie/6789/6789/211545.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anukunnadhi Okkati Aynadhi Okkati (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P0Ej8vhpsh7yF3raSDCvSHweTN.jpg" group-title="Telugu",Anukunnadhi Okkati Aynadhi Okkati (2020)
-http://opplex.tv:8080/movie/6789/6789/211546.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Pitta Katha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSNQs2DrKfbyUgmai4U2CvjZ4Y1.jpg" group-title="Telugu",O Pitta Katha (2020)
-http://opplex.tv:8080/movie/6789/6789/211547.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Janda Pai Kapiraju (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxdlt1Zpq4cZ7W31MAlN1wRJ9XL.jpg" group-title="Telugu",Janda Pai Kapiraju (2015)
-http://opplex.tv:8080/movie/6789/6789/211548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kodama Simham (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxdlt1Zpq4cZ7W31MAlN1wRJ9XL.jpg" group-title="Telugu",Kodama Simham (1990)
-http://opplex.tv:8080/movie/6789/6789/211549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paramanandham Shishyulu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHxgYePp4g9rKMdrE5KHWPUF2QD.jpg" group-title="Telugu",Paramanandham Shishyulu (2020)
-http://opplex.tv:8080/movie/6789/6789/211550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="College Kumar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t97JGFIgjTaexOYBIJAyuMLAxdD.jpg" group-title="Telugu",College Kumar (2020)
-http://opplex.tv:8080/movie/6789/6789/211551.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maithrivanam (2020)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sAg0QVhML._RI_.jpg" group-title="Telugu",Maithrivanam (2020)
-http://opplex.tv:8080/movie/6789/6789/211552.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nenu Naa Nestham (2020)" tvg-logo="https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/2020/09/3/1599157431361_5telugunenunaanestham1080x1920_9x16Images.jpg" group-title="Telugu",Nenu Naa Nestham (2020)
-http://opplex.tv:8080/movie/6789/6789/211553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oka Chinna Prema Katha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKJSTPYNQqly1f4M1BMXQxkZEL4.jpg" group-title="Telugu",Oka Chinna Prema Katha (2020)
-http://opplex.tv:8080/movie/6789/6789/211554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="302 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K6ceeLAB2mdRm5V8sllMr8JN1F.jpg" group-title="Telugu",302 (2017)
-http://opplex.tv:8080/movie/6789/6789/211555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desire (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJjNWMxMjEtOTExMC00MDNkLTk5YzctY2E1YmQ1ZTAzYTk2XkEyXkFqcGdeQXVyNTA0OTY4ODI@._V1_.jpg" group-title="Telugu",Desire (2020)
-http://opplex.tv:8080/movie/6789/6789/211556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Metro Kathalu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8Xmwa43X84RiG1IScZH7umKKNy.jpg" group-title="Telugu",Metro Kathalu (2020)
-http://opplex.tv:8080/movie/6789/6789/211557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thriller (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mliD95nVqBijPGQdZ3xcg8Nsagu.jpg" group-title="Telugu",Thriller (2018)
-http://opplex.tv:8080/movie/6789/6789/211558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="And The Oscar Goes To... (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7dbHVawm4QxWSSBYfLwTWH1tkY.jpg" group-title="Telugu",And The Oscar Goes To... (2019)
-http://opplex.tv:8080/movie/6789/6789/211559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ninne Premistha (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gcFyBHbguANsEfmXxueSpX6EVb.jpg" group-title="Telugu",Ninne Premistha (2000)
-http://opplex.tv:8080/movie/6789/6789/211560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sathee (2020)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71UgtFuNbQL._RI_.jpg" group-title="Telugu",Sathee (2020)
-http://opplex.tv:8080/movie/6789/6789/211561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Raahu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKS8deEmU93fKvpxp720D91834b.jpg" group-title="Telugu",Raahu (2020)
-http://opplex.tv:8080/movie/6789/6789/211562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="Telugu",Run (2020)
-http://opplex.tv:8080/movie/6789/6789/211563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Penguin (2020)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFOg6NbDOxVm-n7sh3koCZ38YNrUqciPPN8XsXWY5YPEVoAzlM" group-title="Telugu",Penguin (2020)
-http://opplex.tv:8080/movie/6789/6789/211564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EnaNoKiPAaYM (2020)" tvg-logo="https://bolly4umovies.in/wp-content/uploads/2020/08/Furious-Jigarwala-Movie-Download-2019-720p-HEVC-HDRip-Hindi-Dual-Audio.jpg" group-title="Telugu",EnaNoKiPAaYM (2020)
-http://opplex.tv:8080/movie/6789/6789/211565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NeeY2 (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkZTVmYjgtZjY1ZS00MWIwLTkyMjYtMjg4ZTU2OTRjZTk1XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg" group-title="Telugu",NeeY2 (2019)
-http://opplex.tv:8080/movie/6789/6789/211566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kanulu Kanulanu Dhochaayante (2020)" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kanulu-kanulanu-dhochaayante-et00127469-03-12-2020-09-29-51.jpg" group-title="Telugu",Kanulu Kanulanu Dhochaayante (2020)
-http://opplex.tv:8080/movie/6789/6789/211567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello Guru Prema Kosame (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRbYgwVYt2yA7XXqLPIPrZj8Vnh.jpg" group-title="South Indian Hindi Dubbed Movies",Hello Guru Prema Kosame (2018)
-http://opplex.tv:8080/movie/6789/6789/208063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bachelor Party (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUyV0CT3EvREJp3OKSM4MXhvMvS.jpg" group-title="South Indian Hindi Dubbed Movies",Bachelor Party (2012)
-http://opplex.tv:8080/movie/6789/6789/208064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Villu (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FLaBCiLhikmouxHAxfBTftc7za.jpg" group-title="South Indian Hindi Dubbed Movies",Villu (2009)
-http://opplex.tv:8080/movie/6789/6789/208065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sri Bharatha Baahubali (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j94lTdIjmEqfwJuQ96pCqNxm2HU.jpg" group-title="South Indian Hindi Dubbed Movies",Sri Bharatha Baahubali (2020)
-http://opplex.tv:8080/movie/6789/6789/208066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boomika (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOFBVKFtXfWUx3ZMPAEp05QD5eD.jpg" group-title="South Indian Hindi Dubbed Movies",Boomika (2021)
-http://opplex.tv:8080/movie/6789/6789/208067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iddarammayilatho (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsh8YdNxq66oH0MvJFd7hjlq6Fq.jpg" group-title="South Indian Hindi Dubbed Movies",Iddarammayilatho (2013)
-http://opplex.tv:8080/movie/6789/6789/208068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ek Mini Katha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg" group-title="South Indian Hindi Dubbed Movies",Ek Mini Katha (2021)
-http://opplex.tv:8080/movie/6789/6789/208034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vinaya Vidheya Rama (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOjSnrKwI3qVKMHn5ofwc2K3Sm3.jpg" group-title="South Indian Hindi Dubbed Movies",Vinaya Vidheya Rama (2019)
-http://opplex.tv:8080/movie/6789/6789/208035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Race Gurram (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg" group-title="South Indian Hindi Dubbed Movies",Race Gurram (2014)
-http://opplex.tv:8080/movie/6789/6789/208036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cold Case (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lodKsWEcNNlEPbE461pD2c2SuG.jpg" group-title="South Indian Hindi Dubbed Movies",Cold Case (2021)
-http://opplex.tv:8080/movie/6789/6789/208037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tungabhadra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRXaBwA4FxJ88NPg54r4itupG2I.jpg" group-title="South Indian Hindi Dubbed Movies",Tungabhadra (2015)
-http://opplex.tv:8080/movie/6789/6789/208038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Bandi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaND5zIAgIzge8y0oaCOIJuJXBB.jpg" group-title="South Indian Hindi Dubbed Movies",Cinema Bandi (2021)
-http://opplex.tv:8080/movie/6789/6789/208039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Su.. Su... Sudhi Vathmeekam (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIVvRVqxkRTpvYPBb8jUF2Rw2Qs.jpg" group-title="South Indian Hindi Dubbed Movies",Su.. Su... Sudhi Vathmeekam (2015)
-http://opplex.tv:8080/movie/6789/6789/208040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viraaj (2021)" tvg-logo="https://watchlatestmovie.com/wp-content/uploads/2021/06/1623674801_tmp_MV5BMWI1MDY3ZjEtMWRkZi00MTBiLWE3OWMtMDYyYmYxOTFmYmFmXkEyXkFqcGdeQXVyOTYwMjEwNTg@.jpg" group-title="South Indian Hindi Dubbed Movies",Viraaj (2021)
-http://opplex.tv:8080/movie/6789/6789/208041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avane Srimannarayana (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RbZNL7JRq5GhIAPrcJlm0LgsgX.jpg" group-title="South Indian Hindi Dubbed Movies",Avane Srimannarayana (2019)
-http://opplex.tv:8080/movie/6789/6789/208042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bangaru Bullodu (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elO1Ek6sxO62qWqLVI5nRCvPXsR.jpg" group-title="South Indian Hindi Dubbed Movies",Bangaru Bullodu (2021)
-http://opplex.tv:8080/movie/6789/6789/208043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rang De (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1USrpUYiRkAj8ArEG5jUUXCCEo.jpg" group-title="South Indian Hindi Dubbed Movies",Rang De (2021)
-http://opplex.tv:8080/movie/6789/6789/208044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Deluxe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N346GcTUjhYa0InIiGHW61Zo3O.jpg" group-title="South Indian Hindi Dubbed Movies",Super Deluxe (2019)
-http://opplex.tv:8080/movie/6789/6789/208045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ee Kathalo Paathralu Kalpitam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2KGLr7dmtWqJ0J5VkjKxoWzI41.jpg" group-title="South Indian Hindi Dubbed Movies",Ee Kathalo Paathralu Kalpitam (2021)
-http://opplex.tv:8080/movie/6789/6789/208046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Where Is The Venkatalakshmi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WKp6uOnXbAUhsSclm9occVgY1r.jpg" group-title="South Indian Hindi Dubbed Movies",Where Is The Venkatalakshmi (2019)
-http://opplex.tv:8080/movie/6789/6789/208047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombie Reddy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOARINtSEjagdoWtrxaxn7rMoLu.jpg" group-title="South Indian Hindi Dubbed Movies",Zombie Reddy (2021)
-http://opplex.tv:8080/movie/6789/6789/208051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kaddu Mucchi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrjFNRltFljxtoYGpqJAOeKM2Xb.jpg" group-title="South Indian Hindi Dubbed Movies",Kaddu Mucchi (2021)
-http://opplex.tv:8080/movie/6789/6789/208052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Raja the Great (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJCAmTsphSfPiYQc4LsYKpdAhTK.jpg" group-title="South Indian Hindi Dubbed Movies",Raja the Great (2017)
-http://opplex.tv:8080/movie/6789/6789/208053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adhurs (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw17AxinuwVnOSlVs2TfkSL2pEo.jpg" group-title="South Indian Hindi Dubbed Movies",Adhurs (2010)
-http://opplex.tv:8080/movie/6789/6789/208058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mufti (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kdDE9eDWSYOHcU4DBJzU1PC0DR.jpg" group-title="South Indian Hindi Dubbed Movies",Mufti (2017)
-http://opplex.tv:8080/movie/6789/6789/208059.mkv
