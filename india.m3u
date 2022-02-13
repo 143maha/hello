@@ -14,6 +14,18 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/p4Z8S8c.png" group-title="",Bhakti TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
 
+#EXTINF:-1 tvg-id="" tvg-name="IND | TELUGU_YUPPTV VEDA" tvg-logo="https://i.imgur.com/ZrvmIU3.jpg" group-title=""YUPPTV VEDA
+http://pprotv.com:80/06169559/06169559/61099
+
+#EXTINF:-1 tvg-id="" tvg-name="IND | TELUGU_OM CVR" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title=""OM CVR
+http://pprotv.com:80/06169559/06169559/61115
+
+#EXTINF:-1 tvg-id="" tvg-name="IND | TELUGU_Aradana TV" tvg-logo="https://i.imgur.com/YkQlVfQ.png" group-title=""Aradana TV
+http://pprotv.com:80/06169559/06169559/61116
+
+#EXTINF:-1 tvg-id="" tvg-name="IND | TELUGU_Calvary TV" tvg-logo="https://i.imgur.com/1OPKF8j.jpg" group-title=""Calvary TV
+http://pprotv.com:80/06169559/06169559/61117
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="",ETV 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/385
 
@@ -24,7 +36,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="",ETV PLUS
-http://starshare.live:8080/live/10191817/10191817/242.ts
+http://pprotv.com:80/06169559/06169559/61094
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="",ETV ABHIRUCHI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
@@ -39,7 +51,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1123
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/375
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="",Star Maa Music
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
+http://pprotv.com:80/06169559/06169559/61091
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="",Gemini TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1120
@@ -63,10 +75,11 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/380
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="",TVAsia HD
-http://localhost/hls-server/master.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="", Raj Music Telugu
-http://localhost/hls-server/v720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IND | TELUGU_TBO HD" tvg-logo="https://i.imgur.com/Ajhl4Yl.png" group-title=""TBO HD
+http://pprotv.com:80/06169559/06169559/61097
 
 #EXTINF:-1 tvg-id="manatv""tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="", Mana TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
@@ -93,7 +106,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1629
 http://starshare.live:8080/live/Imran123/Imran123/1623.ts
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="",DD Yadagiri
-http://rv.imax.re:80/khalid2022/2022khalid/198006
+
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8
@@ -132,7 +145,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 http://starshare.live:8080/live/10191817/10191817/9050.ts
 
 EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="",ETV Andhra Pradesh
-http://starshare.live:8080/live/Imran123/Imran123/9046.ts
+http://pprotv.com:80/06169559/06169559/61120
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="",10 TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1495
@@ -162,7 +175,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/384
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1494
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="",ABN Andhra Jyothi
-http://starshare.live:8080/live/Imran123/Imran123/234.ts
+http://pprotv.com:80/06169559/06169559/61124
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="",I News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
@@ -171,12 +184,13 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 http://starshare.live:8080/live/Imran123/Imran123/284.ts
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="",CVR OM Spiritual
+http://pprotv.com:80/06169559/06169559/61115
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="",AASTHA Telugu
 
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="",Hindu Dharmam
-https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
+http://pprotv.com:80/06169559/06169559/61118
 
 #EXTINF:-1 tvg-name="IND vs NZ Cricket" group-title="",IND vs NZ Cricket
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
