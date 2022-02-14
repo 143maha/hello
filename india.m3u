@@ -17,7 +17,13 @@ http://carre.flysat.live:80/152093572340759/152066486941965/74295
 #EXTINF:-1 tvg-id="YUPPTV VEDA" tvg-logo="https://i.imgur.com/ZrvmIU3.jpg" group-title="",YUPPTV VEDA
 http://pprotv.com:80/06169559/06169559/61099
 
-#EXTINF:-1 tvg-id="OM CVR" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="",OM CVR
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="",AASTHA Telugu
+http://pprotv.com:80/06266060/06266060/110092
+
+#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="",Hindu Dharmam
+http://pprotv.com:80/06169559/06169559/61118
+
+#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="",CVR OM Spiritual
 http://pprotv.com:80/06169559/06169559/61115
 
 #EXTINF:-1 tvg-id="Aradana TV" tvg-logo="https://i.imgur.com/YkQlVfQ.png" group-title="",Aradana TV
@@ -183,15 +189,6 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="",BBC World News
 http://starshare.live:8080/live/Imran123/Imran123/284.ts
-
-#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="",CVR OM Spiritual
-http://pprotv.com:80/06169559/06169559/61115
-
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="",AASTHA Telugu
-
-
-#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="",Hindu Dharmam
-http://pprotv.com:80/06169559/06169559/61118
 
 #EXTINF:-1 tvg-name="IND vs NZ Cricket" group-title="",IND vs NZ Cricket
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
