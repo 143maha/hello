@@ -9,7 +9,7 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="https://i.imgur.com/uNffVOE.png" group-title="",SVBC Telugu
-http://pprotv.com:80/06266060/06266060/60868
+http://ky-iptv.com:80/momimomi/momimomi/1123626.ts
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/p4Z8S8c.png" group-title="",Bhakti TV
 http://carre.flysat.live:80/152093572340759/152066486941965/74295
@@ -33,7 +33,7 @@ http://pprotv.com:80/06169559/06169559/61116
 http://pprotv.com:80/06169559/06169559/61117
 
 #EXTINF:-1 tvg-id="Subhavartha TV" tvg-logo="https://i.imgur.com/QqZOBdC.png" group-title="",Subhavartha TV
-http://pprotv.com:80/06266060/06266060/60866
+http://ky-iptv.com:80/momimomi/momimomi/770451.ts
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="",ETV 
 http://pprotv.com:80/06169559/06169559/61122
@@ -51,7 +51,7 @@ http://pprotv.com:80/06169559/06169559/61094
 http://pprotv.com:80/06169559/06169559/61096
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="",STAR MAA HD
-http://pprotv.com:80/06169559/06169559/61089
+http://ky-iptv.com:80/momimomi/momimomi/1122541.ts
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://i.imgur.com/FpaGXzV.png" group-title="",STAR MAA GOLD
 http://pprotv.com:80/06169559/06169559/61092
@@ -63,13 +63,13 @@ http://pprotv.com:80/06169559/06169559/61090
 http://pprotv.com:80/06169559/06169559/61091
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="",Gemini TV HD
-http://pprotv.com:80/06169559/06169559/61084
+http://ky-iptv.com:80/momimomi/momimomi/1061964.ts
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/eKR5C03.png" group-title="", Gemini Movies HD
-http://pprotv.com:80/06169559/06169559/61085
+http://ky-iptv.com:80/momimomi/momimomi/770149.ts
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="", Gemini Comedy
-http://pprotv.com:80/06169559/06169559/61087
+http://ky-iptv.com:80/momimomi/momimomi/1002429.ts
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="", Gemini Music HD
 http://carre.flysat.live:80/152093572340759/152066486941965/74274
@@ -78,10 +78,10 @@ http://carre.flysat.live:80/152093572340759/152066486941965/74274
 http://pprotv.com:80/06169559/06169559/61088
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="", Zee Telugu HD
-http://pprotv.com:80/06266060/06266060/60022
+http://ky-iptv.com:80/momimomi/momimomi/770554.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="", Zee Cinemalu HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
+http://ky-iptv.com:80/momimomi/momimomi/770528.ts
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="",TVAsia HD
 
@@ -140,13 +140,13 @@ http://carre.flysat.live:80/152093572340759/152066486941965/74270
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/370
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="",Ntv Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1499
+http://ky-iptv.com:80/momimomi/momimomi/770301.ts
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="",TV5 News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1497
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="",TV9 Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
+http://ky-iptv.com:80/momimomi/momimomi/830064.ts
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="",V6 News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
@@ -163,8 +163,8 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1495
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="",Maha News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1101
 
-#EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="",HM TV
-http://14.199.164.20:4001/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="",HMTV
+http://ky-iptv.com:80/momimomi/momimomi/1123278.ts
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -176,10 +176,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/381
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/377
 
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="",CVR News
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1508
+http://ky-iptv.com:80/momimomi/momimomi/1061962.ts
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="",Raj News Telugu
-http://carre.flysat.live:80/152093572340759/152066486941965/74284
+http://ky-iptv.com:80/momimomi/momimomi/1123620.ts
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="",Sakshi TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1494
